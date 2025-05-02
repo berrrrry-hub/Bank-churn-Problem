@@ -56,6 +56,7 @@ To develop and evaluate classification models that predict the likelihood of a c
 
 ---
 
-## 👥 Team
-Berry Tian, Arnav Bhasin, Nitya Reddy, Charlie Liu, Youran Yu  
-Section B – Team 5
+## 👤 Contact & Portfolio
+👤 **Jiaxin(Berry) Tian**  
+📧 berrytian15@gmail.com  
+🔗 https://github.com/berrrrry-hub?tab=repositories
